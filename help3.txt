@@ -1,0 +1,10 @@
+---How shoud I enter Morse code?---
+You can enter Morse code putting 
+one space between letters and two
+space characters between words. "."
+is used for short character and "-"
+for long character of Morse cipher.
+1. How this translator works?
+2. How should I enter words?
+3. How should I enter Morse code?
+9. Go back

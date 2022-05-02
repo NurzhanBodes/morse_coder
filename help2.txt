@@ -1,0 +1,9 @@
+---How should I enter words?---
+You can enter any words written
+in latin alphabet. After you can
+export output as txt file or ask
+for statistics of used characters.
+1. How this translator works?
+2. How should I enter words?
+3. How should I enter Morse code?
+9. Go back

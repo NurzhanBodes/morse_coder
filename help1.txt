@@ -1,0 +1,11 @@
+---How this translator works?---
+Morse code translator works on two 
+ways. It can translate regular text 
+to Morse code and vice versa. To code 
+text to Morse you need to choose first
+button. To make it regular you need to 
+push 2 in main menu.
+1. How this translator works?
+2. How should I enter words?
+3. How should I enter Morse code?
+9. Go back
